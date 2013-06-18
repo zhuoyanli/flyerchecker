@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="id_msg_strnetworker" type="id"/>
+    <item name="id_msg_imgnetworker" type="id"/>
+    <item name="id_msg_neterrordlg" type="id"/>
+    <item name="id_msg_cmdmain_loadvendorjson" type="id"/>
+    <item name="id_msg_cmdmain_startflyeract" type="id"/>
+    <item name="id_msg_cmdmain" type="id"/>
+    <item name="id_msg_cmdflyer" type="id"/>
+    <item name="id_msg_cmdflyer_loadflyerpage" type="id"/>
+    <item name="id_msg_cmdflyer_resetimage" type="id"/>
+</resources>

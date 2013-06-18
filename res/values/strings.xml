@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ZYL\'s FlyerChecker</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_selectvendor">Long-press to Select Vendor</string>
+    <string name="txt_btnGo">Go!</string>
+    <string name="txt_msgchkserver">Checking Network And Server Connectivity!</string>
+    <string name="txt_msgchkpass">Connectivity Check Passed! Starting</string>
+    <string name="txt_msgloadvendors">Loading Available Vendors</string>
+    <string name="title_main">Please Select A Vendor</string>
+    <string name="title_dlgneterror">Network Error</string>
+    <string name="str_msgneterror">Network Error! Try Again?</string>
+    <string name="title_pupselectvendor">You have Selected</string>
+    <string name="str_msgneterror_main">Error Retrieving Vendor\'s Flyer Info</string>
+    <string name="str_msgneterror_flyer">Error Loading Flyer Page</string>
+    <string name="cont_imgflyerpage">Page of Vendor Flyer</string>
+    <string name="txt_btnResetFlyer">Reset</string>
+
+
+</resources>
